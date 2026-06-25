@@ -1,5 +1,6 @@
 """
 Concurrent inference via SGLang.
+Test project
 
 Two input modes are supported:
   1. Dataset images: pass --image_dir and each image is sent as one request.
